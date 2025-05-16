@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm ABHISHEK</h1>
 
 ![](https://komarev.com/ghpvc/?username=Abhishekbgp8&abbreviated=true)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/AbhishekOnCode)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbhishekOnCode?)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-jsr)
 
 <img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
