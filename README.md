@@ -7,10 +7,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-jsr)
 
 <img src="https://cdn-icons-png.flaticon.com/256/5072/5072860.png" align="right" width="215">
-
 - 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 - 📫 How to reach me [📩](abhishekbgp8@gmail.com)<br/>
-- 🌷 #learninginpublic
+- 🌷 #learninginpublic<br/>
+- 🚀 Currently building projects to strengthen my fundamentals<br/>
+- 📚 Always exploring new tools, frameworks, and best practices<br/>
+- 🤝 Open to collaborations, discussions, and meaningful tech connections<br/>
+- 🎯 Focused on writing clean code and improving every single day<br/>
+
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-14354C?style=plastic&logo=python&logoColor=white)
